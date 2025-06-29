@@ -1,3 +1,13 @@
+print(f'''
+
+ _     _           _     _   
+|_|___| |_ ___ ___|_|___| |_ 
+| |   |  _| -_|  _| |  _|  _|
+|_|_|_|_| |___|_| |_|___|_|  
+learning dictionary with fun 
+
+''')
+
 user = input("Masukkan nama user: ")
 
 PC = {
