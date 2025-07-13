@@ -83,4 +83,4 @@ if konfirmasi == "y":
 ''')
 
 else:
-    print("Bye 👋")
+    print("Bye")
